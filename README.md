@@ -11,6 +11,6 @@ About Me
 
 Professional Skills:
 - Development & Programming: Proficient in Python, Java, SQL, JavaScript, C++, with practical experience in React, Angular, Vue.js, and Flutter for web and mobile app development.
-- Big Data & Database Management: Experienced in data mining, processing, SQL Server, Tableau, Power BI, MySQL, and NoSQL databases.
-- AI & Machine Learning: Skilled in building and deploying neural networks, using natural language processing, and various classification algorithms.
+- Big Data & Database Management: Experienced in data mining, processing & Analysis, SQL Server, Tableau, Power BI, MySQL, and NoSQL databases.
+- Data Analysis & Machine Learning: Skilled in clustering, decision tree models, and data visualization to identify patterns, high-risk areas, and actionable insights. Proficient in preprocessing large datasets and developing interpretable models for real-world.
 - DevOps & Cloud Infrastructure: Knowledgeable in AWS, Azure, Docker, Kubernetes, and implementing CI/CD pipelines.

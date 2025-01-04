@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hamidu-Midlah
-- 👀 I’m passionate about Machine Learning, Big Data and Data Engineer, Data Analysis, DevOPs, Cyber Security, and Software Engineering
+- 👀 I’m passionate about Machine Learning, Big Data and Data Engineer, Data Analysis & Excel, DevOPs, Cyber Security, and Software Engineering
 - 🌱 Enhancing My Skills: I'm enhancing my skills in MLOps, particularly in deploying AI models using Kubeflow on Google Cloud Platform. I am also deepening my understanding of DevOps practices, tools, and security protocols to ensure robust, secure software solutions.
 
 About Me
